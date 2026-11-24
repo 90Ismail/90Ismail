@@ -13,7 +13,7 @@
 |---|---|
 | 🌐 **Distributed systems** | Replication, partitioning, consensus, fault tolerance |
 | 🗄️ **Storage engines** | LSM-trees, write-ahead logs, compaction |
-| 📊 **Data infrastructure** | Stream processing, message queues, Pub/Sub → BigQuery pipelines |
+| 📊 **Data infrastructure** | Stream processing, queues, Pub/Sub → BigQuery |
 | ⚙️ **Systems programming** | Concurrency, deadlocks, OS resource management |
 | 🤖 **Applied AI** | Vision-language models and LLM-powered tools |
 | 🍎 **macOS & dev tools** | Small native apps that remove daily friction |
