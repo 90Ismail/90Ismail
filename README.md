@@ -22,12 +22,12 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Martinet](https://github.com/90Ismail/martinet)** | Webhook delivery platform with my own C++ LSM-tree storage engine, a stream processor, and a custom message queue with a dead-letter queue and crash-safe journal. Events flow through Kafka and GCP Pub/Sub into BigQuery | C++ · Go · gRPC · Kafka · Kubernetes · Terraform · GCP |
-| **[HighwayVLM](https://github.com/UMN-Choi-Lab/HighwayVLM)** | Undergraduate research (UROP, UMN Choi Lab): highway safety system that polls freeway cameras concurrently, uses CV gating to decide when to escalate frames to a vision-language model, and serves live incident dashboards | Python · FastAPI · VLMs · Docker |
-| **[ProfileDock](https://github.com/90Ismail/ProfileDock)** | Gives every Chrome profile its own macOS Dock icon, with a chooser for that profile's windows | Swift · macOS |
-| **[DeadlockDoctor](https://github.com/90Ismail/DeadlockDoctor)** | Detects deadlock cycles in a wait-for graph and recovers by moving resources between processes by priority, instead of killing them. *Mending over ending.* *(MinneHack 2026)* | Python |
-| **[SpeakEz](https://github.com/90Ismail/SpeakEz-web)** | Anonymous, location-locked voice notes around the UMN campus. Walk within 150 m to unlock one *(Team Wakehaven)* | TypeScript |
-| **[HueTime Lamp](https://github.com/90Ismail/HueTime-Lamp-Code-CSE-1012)** | Smart ambient lamp whose LED wave reflects the time and temperature, in a 3D-printed seashell shade | C++ · Arduino |
+| **[Martinet](https://github.com/90Ismail/martinet)** | Webhook platform with my own LSM-tree, stream processor and message queue; events flow via Pub/Sub into BigQuery | C++ · Go · Kafka · K8s · GCP |
+| **[HighwayVLM](https://github.com/UMN-Choi-Lab/HighwayVLM)** | UROP research (Choi Lab): flags highway incidents from live cameras with vision-language models | Python · FastAPI · VLMs |
+| **[ProfileDock](https://github.com/90Ismail/ProfileDock)** | Gives every Chrome profile its own macOS Dock icon | Swift · macOS |
+| **[DeadlockDoctor](https://github.com/90Ismail/DeadlockDoctor)** | Detects deadlocks and recovers by priority instead of killing processes *(MinneHack 2026)* | Python |
+| **[SpeakEz](https://github.com/90Ismail/SpeakEz-web)** | Anonymous voice notes locked to places on the UMN campus | TypeScript |
+| **[HueTime Lamp](https://github.com/90Ismail/HueTime-Lamp-Code-CSE-1012)** | Smart lamp whose LEDs reflect the time and temperature | C++ · Arduino |
 
 ## 🛠️ Tech
 
