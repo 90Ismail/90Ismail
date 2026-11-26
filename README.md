@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I'm Ismail</h1>
+<h1 align="center">Hi Friend, I'm Ismail</h1>
 <h3 align="center">CS &amp; Research @ University of Minnesota · Distributed systems &amp; data infrastructure</h3>
 
 ---
